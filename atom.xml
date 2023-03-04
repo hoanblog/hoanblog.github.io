@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>HonganBlog🥏</title>
   
   
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
@@ -10,14 +10,14 @@
   <id>https://www.fomal.cc/</id>
   
   <author>
-    <name>Fomalhaut🥝</name>
+    <name>HonganBlog🥏</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Markdown语法与外挂标签写法汇总</title>
+    <title>Test</title>
     <link href="https://www.fomal.cc/posts/2013454d.html"/>
     <id>https://www.fomal.cc/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
